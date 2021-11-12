@@ -89,9 +89,15 @@ section {
   background-repeat: no-repeat;
   background-position-x: 78%;
 }
+#card-1 img {
+  border-color: #b58cf8;
+}
 
 #card-2 {
   background-color: #48556a;
+}
+#card-2 img {
+  border-color: rgba(166, 166, 166, 0.562);
 }
 
 #card-3 {
@@ -103,6 +109,9 @@ section {
   grid-row: 2/3;
   grid-column: 2/4;
   background-color: #19212e;
+}
+#card-4 img {
+  border-color: #b58cf8;
 }
 
 #card-5 {
